@@ -1,7 +1,7 @@
 # Dataviz-Krish's data story
 DataVizForAll.org story template using modified Bootstrap
 
-## Live view (replace with your own published link in Settings > Pages)
+## Live view
 https://krishbendre07.github.io/Krish-s-Data-Story/
 
 ## Instructions
