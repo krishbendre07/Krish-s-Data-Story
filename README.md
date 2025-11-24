@@ -1,4 +1,4 @@
-# dataviz-story-template
+# Dataviz-Krish's data story
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
